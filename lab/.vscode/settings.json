@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}

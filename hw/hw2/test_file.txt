@@ -1,0 +1,13 @@
+aijiaming.txt
+haha.png
+csapp.pdf
+file1.txt
+haha.exe
+hahahexe
+aaaaab
+abc
+acdddd
+ac
+ab?c
+ab+c
+ab\cd
